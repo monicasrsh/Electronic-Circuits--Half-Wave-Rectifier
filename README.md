@@ -9,7 +9,7 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 2.	
 3.	FileNew Schematic
 4.	
-5.	Click component symbol  to browse and select the components
+5.	Click component symbol  to browse and select the components 
 6.	
 7.	Find the diode or diodes from the component list and place them.
 8.	
